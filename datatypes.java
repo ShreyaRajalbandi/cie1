@@ -18,5 +18,6 @@ public class datatypes {
         System.out.println("Character: "+g);
         System.out.println("Boolean: "+h);
         System.out.println("String: "+i);
+        System.out.println("This is master Branch");
     }
 }
